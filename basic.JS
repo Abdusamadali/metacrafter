@@ -43,6 +43,7 @@ function f(i){
 }
 f(0);
 
+//ca
 cat.friends='birds';
 cat.legs=10;
 const prop=cat.name;
